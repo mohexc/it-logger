@@ -9,17 +9,17 @@
     },
     {
       "id": 2,
-      "message": "Workstation 007 not posting",
-      "attention": true,
-      "date": "03-02-2019",
-      "tech": "John Doe"
+      "message": "Workstation 007  ok",
+      "attention": false,
+      "tech": "Sam Smith",
+      "date": "2019-12-11T17:18:52.513Z"
     },
     {
-      "id": 3,
-      "message": "Changed memory on workstation 050",
-      "attention": false,
-      "date": "03-02-2019",
-      "tech": "Sara Wilson"
+      "message": "test",
+      "attention": true,
+      "tech": "Sam Smith",
+      "date": "2019-12-11T17:16:48.710Z",
+      "id": 3
     }
   ],
   "techs": [
